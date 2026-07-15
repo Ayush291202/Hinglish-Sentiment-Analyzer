@@ -1,4 +1,4 @@
-# 🇮🇳 Hinglish Sentiment Analyzer
+# Hinglish Sentiment Analyzer
 
 A sentiment analysis system for **code-mixed Hindi-English (Hinglish)** text using traditional NLP techniques — custom Word2Vec embeddings and machine learning classifiers.
 
